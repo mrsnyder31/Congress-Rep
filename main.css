@@ -1,0 +1,14 @@
+.congress-rep-info {
+    border: 2px dotted seagreen;
+    margin-bottom: 30px;
+
+}
+.congress-rep-committee {
+    border: 2px dotted blueviolet;
+    margin-bottom: 10px;
+
+}
+.congress-rep-legislation {
+    border: 2px dotted brown;
+
+}
